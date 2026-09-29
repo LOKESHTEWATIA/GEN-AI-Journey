@@ -9,7 +9,7 @@ Documenting a self-directed journey into Machine Learning and AI — pulling fro
 | Math Foundations (Prob & Stats) | ✅ Done | Distributions, hypothesis testing (Z/t-test, chi-square, ANOVA), skew/kurtosis | `phase-1/` |
 | Linear Algebra | ✅ Done | Through eigenvalues & eigenvectors | `phase-1/` |
 | Core ML | 🔄 In progress | Next phase — algorithms, model building | `phase-2/` |
-| DSA Practice | 🔄 Ongoing | Medium/Hard LeetCode problems in Python | [the-journey](https://github.com/LOKESHTEWATIA/the-journey) |
+| DSA Practice | 🔄 Ongoing | Medium/Hard LeetCode problems in Java | [the-journey](https://github.com/LOKESHTEWATIA/DSA-journey) |
 
 ## 📚 Resources
 
